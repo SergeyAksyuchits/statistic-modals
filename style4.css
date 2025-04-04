@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.subtitle {
+    width: 444px;
+    border-radius: 4px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 8px 0px #0000000D;
+    padding: 48px;
+    justify-content: center;
+}
+
+body {
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+.subtitle .text {
+    width: 116px;
+    height: 18px;
+    font-family: Mulish;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    vertical-align: middle;
+    color: #333333;
+
+}
+
+.subtitle h1 {
+    width: 263px;
+    height: 30px;
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 100%;
+    vertical-align: middle;
+    color: #333333;
+    margin-top: 5px;
+
+}
+
+.subtitle .title {
+    width: 68px;
+    height: 18px;
+    font-family: Mulish;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    vertical-align: middle;
+    color: #333333;
+    margin-top: 30px;
+}
+
+.subtitle input {
+    width: 352px;
+    height: 45px;
+    border-radius: 6px;
+    border-width: 1px;
+    padding-right: 12px;
+    padding-left: 12px;
+    gap: 12px;
+    border: 1px solid #DEDEDE;
+    margin-top: 10px;
+}
+
+.subtitle .title-two {
+    width: 65px;
+    height: 18px;
+    font-family: Mulish;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #333333;
+    margin-top: 15px;
+
+}
+
+.subtitle button {
+    width: 378px;
+    height: 45px;
+    border-radius: 6px;
+    padding-top: 9px;
+    padding-right: 14px;
+    padding-bottom: 9px;
+    padding-left: 14px;
+    gap: 10px;
+    background: linear-gradient(180deg, #625BF7 0%, #463EEA 100%);
+    font-family: Mulish;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 18px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    margin-top: 30px;
+    display: block;
+
+
+
+
+}
+
+.subtitle a {
+    /* width: 131px;
+    height: 15px; */
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    color: #625BF7;
+    display: block;
+    margin-top: 20px;
+}
